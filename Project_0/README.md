@@ -10,12 +10,12 @@
 [6. Выводы.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Выводы)<br>
 
 
-### 1. Описание проекта.
+### Описание проекта.
 
 Угадать загаданное компьютером число за минимальное число попыток.<br>
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
 
-### 2. Какой кейс решаем?
+### Какой кейс решаем?
 
 Нужно написать программу, которая угадывает число за минимальное число попыток. 
 
@@ -31,15 +31,15 @@
 
 Учимся писать хороший код на Python<br>
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
-### 3. Краткая информация о данных.
+### Краткая информация о данных.
 
 *В этом проекте данные не использовались*<br>
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
-### 4. Этапы работы над проектом.
+### Этапы работы над проектом.
 
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
-### 5. Результат.
+### Результат.
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
-### 6. Выводы.
+### Выводы.
 ⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
 
