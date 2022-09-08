@@ -2,18 +2,18 @@
 
 ## Оглавление:
 
-[1. Описание проекта.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#описание-проекта)<br>
-[2. Какой кейс решаем?](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#какой-кейс-решаем)<br>
-[3. Краткая информация о данных.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Краткая-информация-о-данных)<br>
-[4. Этапы работы над проектом.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Этапы-работы-над-проектом)<br>
-[5. Результат.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Результат)<br>
+[1. Описание проекта.](#описание-проекта)<br>
+[2. Какой кейс решаем?](#какой-кейс-решаем)<br>
+[3. Краткая информация о данных.](#Краткая-информация-о-данных)<br>
+[4. Этапы работы над проектом.](#Этапы-работы-над-проектом)<br>
+[5. Результат.](#Результат)<br>
 [6. Выводы.](#Выводы)<br>
 
 
 ### Описание проекта.
 
 Угадать загаданное компьютером число за минимальное число попыток.<br>
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -30,16 +30,16 @@
 Что практикуем:
 
 Учимся писать хороший код на Python<br>
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 ### Краткая информация о данных.
 
 *В этом проекте данные не использовались*<br>
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 ### Этапы работы над проектом.
 
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 ### Результат.
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 ### Выводы.
-⬆️[К оглавлению](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Оглавление)
+⬆️[К оглавлению](#Оглавление)
 
