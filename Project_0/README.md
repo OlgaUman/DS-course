@@ -2,12 +2,12 @@
 
 ## Оглавление:
 
-[1. Описание проекта.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Описание-проекта)<br>
-[2. Какой кейс решаем?](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Какой-кейс-решаем)<br>
+[1. Описание проекта.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#описание-проекта)<br>
+[2. Какой кейс решаем?](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#какой-кейс-решаем)<br>
 [3. Краткая информация о данных.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Краткая-информация-о-данных)<br>
 [4. Этапы работы над проектом.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Этапы-работы-над-проектом)<br>
 [5. Результат.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Результат)<br>
-[6. Выводы.](https://github.com/OlgaUman/DS-course/tree/main/Project_0/README.md#Выводы)<br>
+[6. Выводы.](#Выводы)<br>
 
 
 ### Описание проекта.
